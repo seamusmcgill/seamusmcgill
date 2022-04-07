@@ -1,6 +1,4 @@
 <img src="https://github.com/seamusmcgill/seamusmcgill/blob/cbe72ca15571ec3a2c1733cbe8abdb44bd82708f/SM%20Logo%20Final.png?raw=true" align="left" height="200" width="200">
-<br>
-<br>
 
 ### <b>Hey there!</b> 👋
 
