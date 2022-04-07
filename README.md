@@ -6,6 +6,8 @@ I'm a full-stack web developer with a creative background who loves finding out-
 
 I'm a recent graduate from Lighthouse Labs looking for my first full-time position. 
 
+<a src="https://medium.com/@seamymcg/wtf-is-a-linked-list-and-why-should-i-care-b55c2ca55bea">Here's</a> a recent blog post I made about linked lists. Check out my pinned repos below! ⬇️
+
 <br>
 
 ### <b>Languages, Libraries, & Tools</b>
