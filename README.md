@@ -4,7 +4,7 @@
 
 I'm a full-stack web developer with a creative background who loves finding out-of-the-box solutions to complex technical problems.
 
-I'm a recent graduate from Lighthouse Labs currently looking for my first full-time position. 
+I'm a recent graduate from Lighthouse Labs currently looking for my first full-time position. I'm currently learning TypeScript.
 
 [Here's](https://medium.com/@seamymcg/wtf-is-a-linked-list-and-why-should-i-care-b55c2ca55bea) a recent blog post I made about linked lists. Check out my pinned repos below! ⬇️
 
